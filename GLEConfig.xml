@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <family code="2106" desc="Lottery Game" studio="interactive" organizationName="Interactive">
+        <!-- -  For spot supported games: spots are colon separated string like 1:2:3:4:5.Otherwise left blank -->
+        <game name="Super Scoop WLA" version="1.0.1" gameengineversion="2" gamelogicversion="1.0"
+              number="0"
+              jackpotid=""
+              gametype="L"
+              loadprevstate="N"
+              numberGenerator="RNG"
+              betMultipliers="50,3000"
+              spots=""
+              productId="1"
+              gamegroup="eGames"
+              languages="en,en_NZ,en_US">
+            <!-- LNZ -->
+            <paymodel modelid="300-2106-001"  revealId="2106" revealVersionId="2106"
+                      confidentlevelpct="95" maxmainbetwin="0" maxsidebetwin="0"
+                      mincoins="0" cointhreshold="0"
+                      name="Super Scoop : 300-2106-001"
+                      hibethold="41.30" lobethold="41.30"
+                      hibetsd="3.641" lobetsd="3.641" fixedminmax="Y" maxcoins="50"/>
+            <paymodelConfig modelid="300-2106-001"   clienttype="HTML" configcode="IXML"/>
+            <paymodelConfig modelid="300-2106-001"   clienttype="HTML" configcode="PHLP"/>
+
+            <denom currencycode="NZD" amount="0.01,0.02"/>
+            <denom currencycode="USD" amount="0.01,0.02"/>
+
+            <channels>
+                <channel name="INT">
+                    <presentation name="HTML" height="600" meterheight="0" meterwidth="0" width="800" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                    <presentation name="MINH" height="320" meterheight="0" meterwidth="0" width="480" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                </channel>
+                <channel name="MOB">
+                    <presentation name="HTML" height="600" width="800" meterheight="0" meterwidth="0" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                    <presentation name="MINH" height="320" meterheight="0" meterwidth="0" width="480" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                    <presentation name="HTAB" height="600" width="800" meterheight="0" meterwidth="0" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                    <presentation name="MTAB" height="320" meterheight="0" meterwidth="0" width="480" gameFolder="SuperScoop" enableFreeSpin="N" clientversion="1.0" />
+                </channel>
+            </channels>
+        </game>
+    </family>

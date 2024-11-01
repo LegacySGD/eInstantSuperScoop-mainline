@@ -1,0 +1,72 @@
+{
+    "default":{			
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"show_win_up_to":							true,
+			"show_win_meter":							true,
+			"seconds_delay_dismiss_result":		0,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "12":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"show_win_up_to":							true,
+			"show_win_meter":							true,
+			"seconds_delay_dismiss_result":		0,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "16":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"show_win_up_to":							true,
+			"show_win_meter":							true,
+			"seconds_delay_dismiss_result":		0,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+	 "19":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"show_win_up_to":							false,
+			"show_win_meter":							false,
+			"seconds_delay_dismiss_result":		2,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	},
+    "36":{
+			"reveal_delay_seconds":					0.5,
+			"floating_ui":							true,
+			"floating_ui_bar_visible":				true,
+			"show_result_screen":					true,
+			"initial_ui_animation":					true,
+			"no_multiplier_as_default":             true,
+			"background_music_enabled":             false,
+			"show_win_up_to":							true,
+			"show_win_meter":							true,
+			"seconds_delay_dismiss_result":		0,
+			"ui_height_proportion_portrait":		14,
+			"ui_height_proportion_landscape":		10
+	}
+}

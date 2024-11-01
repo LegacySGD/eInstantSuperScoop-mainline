@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="en_US">
+<phrase key="softwareId" value="Software ID"/>
+<phrase key="transactionId" value="Transaction ID"/>
+<phrase key="totalWins" value="Total Wins"/>
+<phrase key="totalWager" value="Total Wager"/>
+<phrase key="prizeBox" value="Prize Box"/>
+<phrase key="bonusBox" value="Bonus Box"/>
+<phrase key="boardNumbers" value="Board Numbers"/>
+<phrase key="1" value="Green and Yellow"/>
+<phrase key="2" value="Chocolate Nutty"/>
+<phrase key="3" value="Pink Swirl"/>
+<phrase key="4" value="Watermelon"/>
+<phrase key="5" value="Mint Chocolate"/>
+<phrase key="6" value="Purple Fruity"/>
+<phrase key="7" value="Vanilla Cone"/>
+<phrase key="8" value="Sundae"/>
+<phrase key="9" value="Orange Swirl"/>
+<phrase key="sundaes" value="Sundaes"/>
+</translation>

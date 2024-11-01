@@ -1,0 +1,28 @@
+{
+	"version": "1.23.2017-09:44AM-en-gb-default-SM",
+	"default": {
+		"loading_screen_loading": "LOADING",
+		"demo": "TRY",
+		"button_play": "PLAY",
+		"button_buy": "BUY",
+		"button_try": "TRY",
+		"button_continue": "CONTINUE",
+		"button_move2moneyGame": "MOVE \nTO MONEY",
+		"wager": "TICKET COST",
+		"balance": "BALANCE",
+		"wins": "WIN",
+		"wins_demo": "DEMO WIN",
+		"button_reveal": "REVEAL ALL",
+		"message_nonWin": "BETTER LUCK\nNEXT TIME",
+		"message_buyWin": "Congratulations!\nYou have won",
+		"message_tryWin": "Thanks for playing!\nYou could have won",
+		"ui_bonusBox": "BONUS\nBOX",
+		"ui_prizeBox": "PRIZE\nBOX",
+		"ui_winUpToAmount": "WIN UP TO",
+		"button_exit": "EXIT",
+		"session_timeout_warning_exit_button": "EXIT",
+		"how_to_play_text": "HOW TO PLAY",
+		"no_multiplier_alt_text": "None",
+		"help_text": "Click/tap the prize box to reveal the game's prize. Click/tap the bonus box to reveal the potential prize multiplier. Click/tap the question marks to reveal various ice cream treats.\nFind three SUPER SUNDAES in any row, column, or diagonal, and win the game's prize-perhaps at 2, 3, or 4 times its value!"
+	}
+}
